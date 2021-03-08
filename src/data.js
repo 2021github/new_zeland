@@ -1,39 +1,38 @@
 const reviews = [
   {
     id: 1,
-    name: 'susan smith',
+    name: 'Pauline Andersson',
     job: 'web developer',
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      'http://1.bp.blogspot.com/_LQ15AgEeTU8/TFxCHPgeM7I/AAAAAAAAA3g/hQ6hdOAEwd8/w1200-h630-p-k-no-nu/ragazza-cinese.jpg',
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Go or Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications.",
   },
   {
     id: 2,
-    name: 'anna johnson',
+    name: 'Cellin Smith',
     job: 'web designer',
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
+      'http://zultomo.altervista.org/cartella_foto/10.jpg',
     text:
-      'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+      'Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design (UI design); authoring, including standardised code and proprietary software; user experience design (UX design); and search engine optimization.',
   },
   {
     id: 3,
-    name: 'peter jones',
-    job: 'intern',
+    name: 'Bill Gates',
+    job: 'employee',
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      'http://zultomo.altervista.org/cartella_foto/11.jpg',
     text:
-      'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
-  },
+'William Henry Gates III (born October 28, 1955) is an American business magnate, software developer, investor, author, and philanthropist. He is a co-founder of Microsoft Corporation.[2][3] During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president and chief software architect, while also being the largest individual shareholder until May 2014.'  },
   {
     id: 4,
-    name: 'bill anderson',
+    name: 'Pasquale Ciaccia',
     job: 'the boss',
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      'http://zultomo.altervista.org/curriculum/pasquale_ciaccia/dist/img/kkk.JPG',
     text:
-      'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+      ' ',
   },
 ];
 
